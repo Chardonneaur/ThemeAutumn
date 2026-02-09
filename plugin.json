@@ -1,16 +1,26 @@
 {
     "name": "ThemeAutumn",
-    "description": "A warm and muted autumn theme with burnt oranges, deep burgundy, and golden harvest accents. Evokes falling leaves.",
+    "description": "A warm and muted autumn theme with burnt oranges, deep burgundy, and golden harvest accents.",
     "version": "1.0.0",
     "theme": true,
     "stylesheet": "stylesheets/main.less",
     "require": {
-        "matomo": ">=5.0.0"
+        "matomo": ">=5.0.0-b1,<6.0.0-b1"
     },
     "authors": [
         {
-            "name": "Custom Development"
+            "name": "Chardonneaur",
+            "homepage": "https://github.com/Chardonneaur"
         }
     ],
-    "license": "GPL v3+"
+    "license": "GPL-3.0+",
+    "homepage": "https://github.com/Chardonneaur/ThemeAutumn",
+    "keywords": [
+        "theme",
+        "autumn",
+        "orange",
+        "brown",
+        "warm"
+    ],
+    "category": "theme"
 }
