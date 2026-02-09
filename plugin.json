@@ -1,0 +1,16 @@
+{
+    "name": "ThemeAutumn",
+    "description": "A warm and muted autumn theme with burnt oranges, deep burgundy, and golden harvest accents. Evokes falling leaves.",
+    "version": "1.0.0",
+    "theme": true,
+    "stylesheet": "stylesheets/main.less",
+    "require": {
+        "matomo": ">=5.0.0"
+    },
+    "authors": [
+        {
+            "name": "Custom Development"
+        }
+    ],
+    "license": "GPL v3+"
+}
